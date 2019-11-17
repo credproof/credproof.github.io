@@ -95,6 +95,11 @@ html {
     margin-right: 110px;
 }
 
+#ourstory .module-subtitle,
+#ourstory .large-text{
+    text-align: left;
+}
+
 body {
     background: #fff;
     font: 400 12px/1.8 "Open Sans", sans-serif;
